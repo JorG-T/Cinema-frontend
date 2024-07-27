@@ -9,7 +9,7 @@ if (
 ) {
   baseURL = process.env.REACT_APP_API_BASE_URL;
 } else {
-  baseURL = "https://cinemaparadiso-backend.onrender.com/";
+  baseURL = "https://cinema-backend-shu3.onrender.com/";
 }
 // baseURL = 'http://127.0.0.1:8000/';
 
